@@ -2,13 +2,12 @@
 <div align="center">
 	<img src="img/1650578612128.jpeg" alt="Banner" width="100%"/>
 	<br>
-	<img src="img/profile-pic%20(1).png" alt="Aldiouma Mbaye" width="160" style="border-radius: 50%; box-shadow: 0 4px 24px #00000022; margin-top: -80px; margin-bottom: 10px;"/>
 	<h1 align="center">Hi there 👋, I'm <span style="color:#9dbf3d;">Aldiouma Mbaye</span></h1>
 	<h3 align="center">Data Engineer | Data Analyst</h3>
 	<p align="center">
 		<a href="mailto:aldioumambaye20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-9dbf3d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 		<a href="https://www.linkedin.com/in/aldiouma-mbaye-dataengineer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-		<a href="https://drive.google.com/file/d/1MFKGC48nbxJHaCXkQMHfNvUuPfp6QLNf/view?usp=sharing"><img alt="Télécharger mon CV" src="https://img.shields.io/badge/CV-Download-9dbf3d?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+		<a href="https://drive.google.com/file/d/1MFKGC48nbxJHaCXkQMHfNvUuPfp6QLNf/view?usp=sharing"><img alt="Download my resume" src="https://img.shields.io/badge/Resume-Download-9dbf3d?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 		<br/>
 		<img alt="Open to opportunities: Data Engineer | Data Analyst" src="https://img.shields.io/badge/Open%20to%20Opportunities-Data%20Engineer%20%7C%20Data%20Analyst-9dbf3d?style=for-the-badge&logo=briefcase&logoColor=white"/>
 		<br/>
@@ -18,42 +17,21 @@
 
 ---
 
-## 📝 À propos de moi
 
-🎓 **Master 2 Data Engineering** à l’ECE Paris<br>
-🎓 **Licence Informatique** Mines-Télécom & SupdeCo Dakar (mention Très Bien)<br>
-💼 **Stage Data Analyst** chez ShopMeAway (prédiction ventes, dashboard Power BI, Snowflake)<br>
-🌍 Basé à Paris, ouvert aux opportunités Data/Cloud/Big Data
+## 🚀 Featured Projects
 
-> Passionné par la donnée et son potentiel à transformer les décisions business, je conçois des systèmes scalables qui convertissent les données brutes en insights actionnables. J’aime relever des défis techniques et collaborer sur des projets innovants.
-
-<details>
-	<summary><b>About me (English)</b></summary>
-
-	- Master's in Data Engineering at ECE Paris.  
-	- BSc in Computer Science (Institut Mines-Télécom & SupdeCo Dakar, with honors).  
-	- I build reliable ETL pipelines (batch and real-time) and deliver insights with Power BI.  
-	- Hands-on with Spark, Kafka, Hadoop, Airflow, and deployments on AWS/Azure/GCP.  
-	- Internship at ShopMeAway: sales prediction with Python/Scikit-learn, KPI optimization, Snowflake + Power BI dashboards.
-
-</details>
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🚆 SNCF Traffic Prediction](https://github.com/ebqydnjni/sncf-trafic-prediction) | Real-time ML models to predict delays and improve rail traffic control | Python, ML, Spark |
+| [💳 Fraud Detection](https://github.com/ebqydnjni/fraude-temps-reel) | Spark/Kafka streaming, online anomaly detection, Power BI dashboard | Spark, Kafka, Power BI |
+| [❤️ CardioMind](https://github.com/ebqydnjni/CardioMind) | Healthcare AI: cardiac disease prediction, personalized risk visualization | Python, ML, DataViz |
+| [📊 Big Data Pipeline](https://github.com/ebqydnjni/PROJET-BIGDATA) | Distributed Hadoop + Spark architecture, ingestion, ML, Power BI export | Hadoop, Spark, Power BI |
+| [🛍️ ShopMeAway Internship](https://github.com/ebqydnjni/Projet_StageShopmeaway) | E‑commerce sales analysis, ARIMA forecasting, Power BI reports, KPI tracking | Python, ARIMA, Power BI |
+| [📈 Data Valorization](https://github.com/ebqydnjni/valorisation_Des_Donnes.git) | Data value pipeline with advanced visualization | Python, Data Engineering |
 
 ---
 
-## 🚀 Projets phares
-
-| Projet | Description | Technologies |
-|--------|-------------|--------------|
-| [🚆 Prédiction trafic SNCF](https://github.com/ebqydnjni/sncf-trafic-prediction) | Modèles ML temps réel pour prédire les retards et améliorer la régulation ferroviaire | Python, ML, Spark |
-| [💳 Détection de fraude](https://github.com/ebqydnjni/fraude-temps-reel) | Streaming Spark/Kafka, détection en ligne des anomalies, dashboard Power BI | Spark, Kafka, Power BI |
-| [❤️ CardioMind](https://github.com/ebqydnjni/CardioMind) | IA santé : prédiction maladies cardiaques, visualisation personnalisée des risques | Python, ML, DataViz |
-| [📊 Pipeline Big Data](https://github.com/ebqydnjni/PROJET-BIGDATA) | Architecture distribuée Hadoop + Spark, ingestion, ML, export Power BI | Hadoop, Spark, Power BI |
-| [🛍️ Stage ShopMeAway](https://github.com/ebqydnjni/Projet_StageShopmeaway) | Analyse ventes e-commerce, forecast ARIMA, rapports Power BI, suivi KPI | Python, ARIMA, Power BI |
-| [📈 Valorisation des Données](https://github.com/ebqydnjni/valorisation_Des_Donnes.git) | Pipeline de valorisation des données, visualisation avancée | Python, Data Engineering |
-
----
-
-## ️ Stack & outils
+## ️ Stack & Tools
 
 <div align="center">
 	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -83,28 +61,28 @@
 
 ---
 
-## 🧠 Compétences clés
+## 🧠 Key Skills
 
 <ul>
-	<li>Développement de pipelines ETL (batch & temps réel)</li>
-	<li>Modélisation et analyse de données</li>
+	<li>ETL pipeline development (batch & real-time)</li>
+	<li>Data modeling and analysis</li>
 	<li>Machine Learning (Scikit-learn, ARIMA, Random Forest)</li>
 	<li>Big Data (Spark, Hadoop, Kafka, Airflow)</li>
 	<li>Cloud (AWS, Azure, GCP)</li>
-	<li>Visualisation avancée (Power BI, Matplotlib, Seaborn)</li>
+	<li>Advanced visualization (Power BI, Matplotlib, Seaborn)</li>
 	<li>DevOps (Docker, GitHub Actions, Kubernetes)</li>
 	<li>Data Warehousing (Snowflake, PostgreSQL, MongoDB, Cassandra)</li>
 </ul>
 
 ---
 
-## 🔥 En cours d'apprentissage
+## 🔥 Currently Learning
 
 <div align="center">
-	<img alt="AWS Certification - Solutions Architect (en cours)" src="https://img.shields.io/badge/AWS%20Certification-Solutions%20Architect%20(en%20cours)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+	<img alt="AWS Certification - Solutions Architect (in progress)" src="https://img.shields.io/badge/AWS%20Certification-Solutions%20Architect%20(in%20progress)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
-> 🚀 Actuellement: préparation à la certification AWS Solutions Architect (Associate).
+> 🚀 Currently: preparing for the AWS Solutions Architect (Associate) certification.
 
 ---
 
@@ -113,10 +91,10 @@
 ## 🤝 Soft Skills
 
 <ul>
-	<li>Communication claire et vulgarisation technique</li>
-	<li>Gestion de projet agile & collaboration internationale</li>
-	<li>Résolution de problèmes complexes</li>
-	<li>Adaptabilité et apprentissage continu</li>
+	<li>Clear communication and technical storytelling</li>
+	<li>Agile project management & cross‑cultural collaboration</li>
+	<li>Complex problem solving</li>
+	<li>Adaptability and continuous learning</li>
 </ul>
 
 ---
@@ -146,7 +124,7 @@
 				<a href="https://ebqydnjni.github.io/portfolio-aldiouma/">
 					<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 				</a>
-				<br><b>Mon Portfolio</b>
+					<br><b>My Portfolio</b>
 			</td>
 		</tr>
 	</table>
@@ -154,8 +132,9 @@
 
 ---
 
+
 <div align="center">
-	<i>💡 "Les données racontent des histoires, mon rôle est de les écouter et de les faire parler." 💡</i>
+	<i>💡 "Data tells stories—my role is to listen and help them speak." 💡</i>
 	<br><br>
 	<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
 	<img src="https://img.shields.io/badge/Thanks%20for-visiting-blue?style=for-the-badge" alt="Thanks for visiting"/>
