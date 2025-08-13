@@ -121,7 +121,7 @@
 				<br><b>aldiouma-mbaye-dataengineer</b>
 			</td>
 			<td align="center">
-				<a href="https://ebqydnjni.github.io/portfolio-aldiouma/">
+				<a href="https://maldiouma.github.io/portfolio-aldiouma/">
 					<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 				</a>
 					<br><b>My Portfolio</b>
